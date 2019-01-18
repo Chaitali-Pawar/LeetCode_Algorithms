@@ -2,6 +2,19 @@ import java.util.HashMap;
 import java.util.Stack;
 
 public class Solver_Check_Valid_String_Paranthesis {
+    /*
+    * Description
+    * Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+
+        An input string is valid if:
+
+            Open brackets must be closed by the same type of brackets.
+            Open brackets must be closed in the correct order.
+
+        Note that an empty string is also considered valid.
+    *
+    *
+    * */
 }
 
 class Solve_Check_Valid_String_Paranthesis {
