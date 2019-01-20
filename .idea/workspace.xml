@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8b9c330-c7a6-4791-9532-e110c1dbe4ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Solver_Check_Valid_String_Paranthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solver_Check_Valid_String_Paranthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Remove_Duplicate_Array_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Remove_Duplicates_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Check_Valid_String_Paranthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Check_Valid_String_Paranthesis.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +28,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Longest_Common_Prefix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="171">
               <caret line="10" column="67" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -34,14 +37,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Check_Valid_String_Paranthesis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="59" selection-start-line="8" selection-start-column="8" selection-end-line="13" selection-end-column="59" />
+            <state relative-caret-position="266">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#340#362#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Remove_Duplicates_Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="125" selection-start-line="3" selection-start-column="125" selection-end-line="3" selection-end-column="125" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Remove_Duplicate_Array_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,7 +73,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solve_Check_Valid_String_Paranthesis_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
+            <state relative-caret-position="38">
               <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -105,6 +128,8 @@
         <option value="$PROJECT_DIR$/src/Solver_Longest_Common_Prefix.java" />
         <option value="$PROJECT_DIR$/src/Solve_Check_Valid_String_Paranthesis_Test.java" />
         <option value="$PROJECT_DIR$/src/Solver_Check_Valid_String_Paranthesis.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Remove_Duplicate_Array_Test.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Remove_Duplicates_Array.java" />
       </list>
     </option>
   </component>
@@ -120,6 +145,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,8 +163,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,7 +170,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547845470221" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548013247875" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solve_Check_Valid_String_Paranthesis_Test">
+  <component name="RunManager" selected="JUnit.Solver_Remove_Duplicate_Array_Test.test">
     <configuration name="Solve_Check_Valid_String_Paranthesis_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePrograms" />
       <option name="PACKAGE_NAME" value="" />
@@ -179,15 +204,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solve_Longest_Common_Prefix_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCodePrograms" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solve_Longest_Common_Prefix_Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solve_Longest_Common_Prefix_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePrograms" />
       <option name="PACKAGE_NAME" value="" />
@@ -198,10 +214,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solve_Two_Sum_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Solver_Remove_Duplicate_Array_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePrograms" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solve_Two_Sum_Test" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Remove_Duplicate_Array_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solver_Remove_Duplicate_Array_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePrograms" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Remove_Duplicate_Array_Test" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -210,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solver_Remove_Duplicate_Array_Test.test" />
+        <item itemvalue="JUnit.Solver_Remove_Duplicate_Array_Test" />
         <item itemvalue="JUnit.Solve_Check_Valid_String_Paranthesis_Test" />
         <item itemvalue="JUnit.Solve_Check_Valid_String_Paranthesis_Test.test" />
         <item itemvalue="JUnit.Solve_Longest_Common_Prefix_Test.test" />
-        <item itemvalue="JUnit.Solve_Longest_Common_Prefix_Test" />
-        <item itemvalue="JUnit.Solve_Two_Sum_Test.test" />
       </list>
     </recent_temporary>
   </component>
@@ -232,42 +257,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solve_Check_Valid_String_Paranthesis_Test_test - 2019.01.18 at 15h 48m 10s.xml">
-      <configuration name="Solve_Check_Valid_String_Paranthesis_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Remove_Duplicate_Array_Test_test - 2019.01.20 at 13h 57m 06s.xml">
+      <configuration name="Solver_Remove_Duplicate_Array_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solve_Check_Valid_String_Paranthesis_Test_test - 2019.01.18 at 15h 51m 15s.xml">
-      <configuration name="Solve_Check_Valid_String_Paranthesis_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Remove_Duplicate_Array_Test_test - 2019.01.20 at 13h 57m 47s.xml">
+      <configuration name="Solver_Remove_Duplicate_Array_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solve_Check_Valid_String_Paranthesis_Test_test - 2019.01.18 at 15h 52m 37s.xml">
-      <configuration name="Solve_Check_Valid_String_Paranthesis_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Remove_Duplicate_Array_Test_test - 2019.01.20 at 13h 59m 59s.xml">
+      <configuration name="Solver_Remove_Duplicate_Array_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solve_Check_Valid_String_Paranthesis_Test_test - 2019.01.18 at 15h 52m 58s.xml">
-      <configuration name="Solve_Check_Valid_String_Paranthesis_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Remove_Duplicate_Array_Test_test - 2019.01.20 at 14h 25m 47s.xml">
+      <configuration name="Solver_Remove_Duplicate_Array_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solve_Check_Valid_String_Paranthesis_Test_test - 2019.01.18 at 15h 54m 25s.xml">
-      <configuration name="Solve_Check_Valid_String_Paranthesis_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Remove_Duplicate_Array_Test_test - 2019.01.20 at 14h 26m 06s.xml">
+      <configuration name="Solver_Remove_Duplicate_Array_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solve_Check_Valid_String_Paranthesis_Test_test - 2019.01.18 at 15h 54m 39s.xml">
-      <configuration name="Solve_Check_Valid_String_Paranthesis_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Remove_Duplicate_Array_Test_test - 2019.01.20 at 14h 27m 39s.xml">
+      <configuration name="Solver_Remove_Duplicate_Array_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solve_Check_Valid_String_Paranthesis_Test_test - 2019.01.18 at 15h 54m 48s.xml">
-      <configuration name="Solve_Check_Valid_String_Paranthesis_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Remove_Duplicate_Array_Test_test - 2019.01.20 at 14h 29m 40s.xml">
+      <configuration name="Solver_Remove_Duplicate_Array_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solve_Check_Valid_String_Paranthesis_Test_test - 2019.01.18 at 15h 58m 06s.xml">
-      <configuration name="Solve_Check_Valid_String_Paranthesis_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Remove_Duplicate_Array_Test_test - 2019.01.20 at 14h 36m 14s.xml">
+      <configuration name="Solver_Remove_Duplicate_Array_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solve_Check_Valid_String_Paranthesis_Test_test - 2019.01.18 at 16h 01m 06s.xml">
-      <configuration name="Solve_Check_Valid_String_Paranthesis_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Remove_Duplicate_Array_Test_test - 2019.01.20 at 14h 37m 04s.xml">
+      <configuration name="Solver_Remove_Duplicate_Array_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solve_Check_Valid_String_Paranthesis_Test - 2019.01.18 at 16h 04m 27s.xml">
-      <configuration name="Solve_Check_Valid_String_Paranthesis_Test" configurationId="JUnit" />
+    <history-entry file="Solver_Remove_Duplicate_Array_Test_test - 2019.01.20 at 14h 37m 19s.xml">
+      <configuration name="Solver_Remove_Duplicate_Array_Test.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="34" width="1853" height="1046" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25652415" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26374236" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -316,6 +341,12 @@
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Remove_Duplicate_Array_Test.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -324,6 +355,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Longest_Common_Prefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="67" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Check_Valid_String_Paranthesis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Remove_Duplicate_Array_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solve_Check_Valid_String_Paranthesis_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -347,34 +418,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Longest_Common_Prefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="67" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solve_Check_Valid_String_Paranthesis_Test.java">
+    <entry file="file://$PROJECT_DIR$/src/Solver_Remove_Duplicates_Array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Check_Valid_String_Paranthesis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="59" selection-start-line="8" selection-start-column="8" selection-end-line="13" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#340#362#0" expanded="true" />
-          </folding>
+          <caret line="3" column="125" selection-start-line="3" selection-start-column="125" selection-end-line="3" selection-end-column="125" />
         </state>
       </provider>
     </entry>
