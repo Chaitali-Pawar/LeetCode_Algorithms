@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8b9c330-c7a6-4791-9532-e110c1dbe4ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solver_Find_Min_Depth_Tree_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solver_Find_Minimum_Depth_Binary_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solve_Find_Same_Tree_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Find_Same_Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,15 +16,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solver_Remove_Duplicates_Sorted_List_Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Find_Max_Depth_Left_Sub_Tree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="684">
@@ -36,7 +27,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Find_Minimum_Depth_Binary_Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
+            <state relative-caret-position="520">
               <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
               <folding>
                 <element signature="e#859#860#0" expanded="true" />
@@ -46,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Find_Min_Depth_Tree_Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
@@ -58,9 +49,25 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Find_Same_Tree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="19" column="54" lean-forward="true" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/InputReader.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/Solve_Find_Same_Tree_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="41" column="66" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="41" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -155,6 +162,8 @@
         <option value="$PROJECT_DIR$/src/Solver_Find_Max_Depth_Left_Sub_Tree.java" />
         <option value="$PROJECT_DIR$/src/Solver_Find_Min_Depth_Tree_Test.java" />
         <option value="$PROJECT_DIR$/src/Solver_Find_Minimum_Depth_Binary_Tree.java" />
+        <option value="$PROJECT_DIR$/src/Solve_Find_Same_Tree_Test.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Find_Same_Tree.java" />
       </list>
     </option>
   </component>
@@ -195,7 +204,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548357623594" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548362393622" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -214,21 +223,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solver_Find_Min_Depth_Tree_Test.test">
-    <configuration name="Solver_Find_Min_Depth_Tree_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Solver_Find_Same_Tree">
+    <configuration name="Solver_Find_Same_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solver_Find_Same_Tree" />
       <module name="LeetCodePrograms" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solver_Find_Min_Depth_Tree_Test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solver_Remove_Duplicate_Array_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Solver_Find_Min_Depth_Tree_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePrograms" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solver_Remove_Duplicate_Array_Test" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Find_Min_Depth_Tree_Test" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -266,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solver_Find_Same_Tree" />
         <item itemvalue="JUnit.Solver_Find_Min_Depth_Tree_Test.test" />
         <item itemvalue="JUnit.Solver_Remove_Duplicates_Sorted_List_Test.test" />
         <item itemvalue="JUnit.Solver_Remove_Element_Test.test" />
         <item itemvalue="JUnit.Solver_Remove_Element_Test" />
-        <item itemvalue="JUnit.Solver_Remove_Duplicate_Array_Test.test" />
       </list>
     </recent_temporary>
   </component>
@@ -527,9 +533,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Min_Depth_Tree_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solver_Find_Minimum_Depth_Binary_Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
+        <state relative-caret-position="520">
           <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
           <folding>
             <element signature="e#859#860#0" expanded="true" />
@@ -538,13 +554,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Min_Depth_Tree_Test.java">
+    <entry file="file://$PROJECT_DIR$/src/Solve_Find_Same_Tree_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="38" />
+        <state relative-caret-position="491">
+          <caret line="41" column="66" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="41" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Same_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="19" column="54" lean-forward="true" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
         </state>
       </provider>
     </entry>
