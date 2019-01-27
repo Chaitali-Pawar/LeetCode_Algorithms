@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8b9c330-c7a6-4791-9532-e110c1dbe4ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solve_Find_Same_Tree_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solver_Find_Same_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Find_Maximum_SubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Find_Maximum_SubArray_Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,32 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solver_Find_Max_Depth_Left_Sub_Tree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="36" column="34" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="36" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solver_Find_Minimum_Depth_Binary_Tree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-              <folding>
-                <element signature="e#859#860#0" expanded="true" />
-                <element signature="e#888#889#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Find_Min_Depth_Tree_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="38" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="38" />
+            <state relative-caret-position="152">
+              <caret line="9" column="38" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,11 +27,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Find_Same_Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="19" column="54" lean-forward="true" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+            <state relative-caret-position="361">
+              <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Find_Maximum_SubArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="692">
+              <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#1621#0" expanded="true" />
+                <element signature="e#623#624#0" expanded="true" />
+                <element signature="e#683#684#0" expanded="true" />
+                <element signature="e#1507#1508#0" expanded="true" />
+                <element signature="e#1539#1540#0" expanded="true" />
+                <element signature="e#1579#1580#0" expanded="true" />
+                <element signature="e#1617#1618#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Find_Maximum_SubArray_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solve_Find_Same_Tree_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="41" column="66" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="41" selection-end-column="66" />
+            <state relative-caret-position="760">
+              <caret line="41" column="66" selection-start-line="35" selection-start-column="8" selection-end-line="41" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,6 +172,8 @@
         <option value="$PROJECT_DIR$/src/Solver_Find_Minimum_Depth_Binary_Tree.java" />
         <option value="$PROJECT_DIR$/src/Solve_Find_Same_Tree_Test.java" />
         <option value="$PROJECT_DIR$/src/Solver_Find_Same_Tree.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Find_Maximum_SubArray_Test.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Find_Maximum_SubArray.java" />
       </list>
     </option>
   </component>
@@ -179,6 +189,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,7 +207,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,7 +214,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548362393622" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548625314805" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -223,10 +233,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solver_Find_Same_Tree">
+  <component name="RunManager" selected="JUnit.Solver_Find_Maximum_SubArray_Test">
     <configuration name="Solver_Find_Same_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solver_Find_Same_Tree" />
       <module name="LeetCodePrograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solver_Find_Maximum_SubArray_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePrograms" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Find_Maximum_SubArray_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solver_Find_Maximum_SubArray_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePrograms" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Find_Maximum_SubArray_Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -251,32 +280,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solver_Remove_Element_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCodePrograms" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solver_Remove_Element_Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solver_Remove_Element_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCodePrograms" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solver_Remove_Element_Test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solver_Find_Maximum_SubArray_Test" />
+        <item itemvalue="JUnit.Solver_Find_Maximum_SubArray_Test.test" />
         <item itemvalue="Application.Solver_Find_Same_Tree" />
         <item itemvalue="JUnit.Solver_Find_Min_Depth_Tree_Test.test" />
         <item itemvalue="JUnit.Solver_Remove_Duplicates_Sorted_List_Test.test" />
-        <item itemvalue="JUnit.Solver_Remove_Element_Test.test" />
-        <item itemvalue="JUnit.Solver_Remove_Element_Test" />
       </list>
     </recent_temporary>
   </component>
@@ -294,15 +304,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solver_Remove_Element_Test_test - 2019.01.21 at 17h 57m 53s.xml">
-      <configuration name="Solver_Remove_Element_Test.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solver_Remove_Element_Test - 2019.01.21 at 18h 00m 11s.xml">
-      <configuration name="Solver_Remove_Element_Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solver_Remove_Element_Test_test - 2019.01.21 at 18h 01m 16s.xml">
-      <configuration name="Solver_Remove_Element_Test.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Solver_Remove_Element_Test_test - 2019.01.21 at 18h 01m 34s.xml">
       <configuration name="Solver_Remove_Element_Test.test" configurationId="JUnit" />
     </history-entry>
@@ -324,12 +325,21 @@
     <history-entry file="Solver_Find_Min_Depth_Tree_Test_test - 2019.01.24 at 14h 16m 19s.xml">
       <configuration name="Solver_Find_Min_Depth_Tree_Test.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Solver_Find_Maximum_SubArray_Test_test - 2019.01.27 at 11h 53m 13s.xml">
+      <configuration name="Solver_Find_Maximum_SubArray_Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solver_Find_Maximum_SubArray_Test - 2019.01.27 at 11h 56m 14s.xml">
+      <configuration name="Solver_Find_Maximum_SubArray_Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solver_Find_Maximum_SubArray_Test - 2019.01.27 at 11h 57m 50s.xml">
+      <configuration name="Solver_Find_Maximum_SubArray_Test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="34" width="1853" height="1046" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27429205" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28983897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -338,7 +348,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32962137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32962137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.26169264" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -348,13 +358,13 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32962137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info active="true" anchor="right" id="Ant Build" order="7" visible="true" weight="0.047196" />
     </layout>
   </component>
   <component name="XDebuggerManager">
@@ -408,8 +418,18 @@
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Find_Maximum_SubArray.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Solver_Two_Sum.java">
@@ -476,6 +496,57 @@
     <entry file="file://$PROJECT_DIR$/src/InputReader.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Max_Depth_Left_Sub_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="34" selection-start-line="33" selection-start-column="5" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Minimum_Depth_Binary_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Min_Depth_Tree_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="38" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Same_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Maximum_SubArray_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solve_Find_Same_Tree_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="41" column="66" selection-start-line="35" selection-start-column="8" selection-end-line="41" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solver_Remove_Element_Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -526,48 +597,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Max_Depth_Left_Sub_Tree.java">
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Maximum_SubArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="34" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="36" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Min_Depth_Tree_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="38" />
+        <state relative-caret-position="692">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#1621#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#1507#1508#0" expanded="true" />
+            <element signature="e#1539#1540#0" expanded="true" />
+            <element signature="e#1579#1580#0" expanded="true" />
+            <element signature="e#1617#1618#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Minimum_Depth_Binary_Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-          <folding>
-            <element signature="e#859#860#0" expanded="true" />
-            <element signature="e#888#889#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solve_Find_Same_Tree_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="41" column="66" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="41" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Same_Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="19" column="54" lean-forward="true" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
         </state>
       </provider>
     </entry>
