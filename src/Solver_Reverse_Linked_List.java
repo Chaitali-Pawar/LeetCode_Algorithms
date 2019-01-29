@@ -13,7 +13,7 @@ class Solve_Reverse_Linked_List{
         ListNode current = head;
         while (current !=null){
             next = current.next;
-            currenrt.next =prev;
+            current.next =prev;
             prev =current;
             current =next;
         }
