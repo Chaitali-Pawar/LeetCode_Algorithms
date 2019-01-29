@@ -4,7 +4,7 @@ import java.util.Map;
 
 public class Solver_Find_Majority_Element {
 
-    pub
+
 }
 
 
@@ -15,7 +15,11 @@ class Solve_Find_Majority_Element{
         int majority_element =0;
         mapOfArray.put(arr[0],0);
         for(int i=1;i<arr.length;i++){
-            if(mapOfArray.containsKey(arr[i])){}else{
+            if(mapOfArray.containsKey(arr[i])){
+                int count = mapOfArray.get(arr[i]);
+                count = count +1;
+                mapOfArray.put(arr[i],count);
+            }else{
                 mapOfArray.put(arr[i],0);
             }
         }
