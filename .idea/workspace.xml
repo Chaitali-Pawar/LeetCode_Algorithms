@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8b9c330-c7a6-4791-9532-e110c1dbe4ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Solver_Reverse_Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solver_Reverse_Linked_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Reverse_Palindrome_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Reverse_Palindrome_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Number_Is_Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Number_Is_Palindrome.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solver_Find_Maximum_SubArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Find_Majority_Element_Test.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -70,20 +64,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Find_Number_Is_Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="9" selection-start-line="5" selection-start-column="7" selection-end-line="18" selection-end-column="9" />
+            <state relative-caret-position="361">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Reverse_Linked_List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="21" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Reverse_Palindrome_List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solver_Reverse_Linked_List.java">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Reverse_Palindrome_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            <state relative-caret-position="380">
+              <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
               <folding>
-                <element signature="e#0#398#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1956">
+              <caret line="126" selection-start-line="126" selection-end-line="126" />
             </state>
           </provider>
         </entry>
@@ -141,6 +162,9 @@
         <option value="$PROJECT_DIR$/src/Solver_Find_Number_Is_Palindrome_Test.java" />
         <option value="$PROJECT_DIR$/src/Solver_Find_Number_Is_Palindrome.java" />
         <option value="$PROJECT_DIR$/src/Solver_Reverse_Linked_List.java" />
+        <option value="$PROJECT_DIR$/src/Solve_Reverse_Palindrome_List.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Reverse_Palindrome_List.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Reverse_Palindrome_Test.java" />
       </list>
     </option>
   </component>
@@ -156,6 +180,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,12 +212,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Solver_Find_Same_Tree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
+            <path>
+              <item name="LeetCodePrograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodePrograms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Solver_Reverse_Palindrome_List.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -199,7 +229,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548794558878" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548897853771" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -218,14 +248,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solver_Find_Number_Is_Palindrome_Test.test">
-    <configuration name="Solver_Find_Same_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solver_Find_Same_Tree" />
-      <module name="LeetCodePrograms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Solver_Reverse_Palindrome_Test.test">
     <configuration name="Solver_Find_Majority_Element_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePrograms" />
       <option name="PACKAGE_NAME" value="" />
@@ -245,16 +268,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solver_Find_Maximum_SubArray_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCodePrograms" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solver_Find_Maximum_SubArray_Test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solver_Find_Number_Is_Palindrome_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePrograms" />
       <option name="PACKAGE_NAME" value="" />
@@ -265,13 +278,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solver_Reverse_Palindrome_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePrograms" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Reverse_Palindrome_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solver_Reverse_Palindrome_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePrograms" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Reverse_Palindrome_Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solver_Reverse_Palindrome_Test.test" />
+        <item itemvalue="JUnit.Solver_Reverse_Palindrome_Test" />
         <item itemvalue="JUnit.Solver_Find_Number_Is_Palindrome_Test.test" />
         <item itemvalue="JUnit.Solver_Find_Majority_Element_Test.test" />
         <item itemvalue="JUnit.Solver_Find_Maximum_SubArray_Test" />
-        <item itemvalue="JUnit.Solver_Find_Maximum_SubArray_Test.test" />
-        <item itemvalue="Application.Solver_Find_Same_Tree" />
       </list>
     </recent_temporary>
   </component>
@@ -289,27 +321,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solver_Find_Majority_Element_Test_test - 2019.01.28 at 17h 08m 59s.xml">
-      <configuration name="Solver_Find_Majority_Element_Test.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solver_Find_Majority_Element_Test_test - 2019.01.28 at 17h 10m 07s.xml">
-      <configuration name="Solver_Find_Majority_Element_Test.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solver_Find_Majority_Element_Test_test - 2019.01.28 at 17h 13m 05s.xml">
-      <configuration name="Solver_Find_Majority_Element_Test.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solver_Find_Majority_Element_Test_test - 2019.01.28 at 17h 14m 00s.xml">
-      <configuration name="Solver_Find_Majority_Element_Test.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solver_Find_Majority_Element_Test_test - 2019.01.28 at 17h 14m 22s.xml">
-      <configuration name="Solver_Find_Majority_Element_Test.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solver_Find_Majority_Element_Test_test - 2019.01.28 at 17h 14m 48s.xml">
-      <configuration name="Solver_Find_Majority_Element_Test.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solver_Find_Number_Is_Palindrome_Test_test - 2019.01.28 at 18h 26m 38s.xml">
-      <configuration name="Solver_Find_Number_Is_Palindrome_Test.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Solver_Find_Number_Is_Palindrome_Test_test - 2019.01.28 at 18h 27m 06s.xml">
       <configuration name="Solver_Find_Number_Is_Palindrome_Test.test" configurationId="JUnit" />
     </history-entry>
@@ -319,12 +330,33 @@
     <history-entry file="Solver_Find_Number_Is_Palindrome_Test_test - 2019.01.29 at 13h 54m 09s.xml">
       <configuration name="Solver_Find_Number_Is_Palindrome_Test.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Solver_Reverse_Palindrome_Test_test - 2019.01.30 at 10h 17m 13s.xml">
+      <configuration name="Solver_Reverse_Palindrome_Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solver_Reverse_Palindrome_Test_test - 2019.01.30 at 10h 19m 35s.xml">
+      <configuration name="Solver_Reverse_Palindrome_Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solver_Reverse_Palindrome_Test_test - 2019.01.30 at 10h 22m 36s.xml">
+      <configuration name="Solver_Reverse_Palindrome_Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solver_Reverse_Palindrome_Test - 2019.01.30 at 11h 52m 15s.xml">
+      <configuration name="Solver_Reverse_Palindrome_Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solver_Reverse_Palindrome_Test - 2019.01.30 at 20h 21m 32s.xml">
+      <configuration name="Solver_Reverse_Palindrome_Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solver_Reverse_Palindrome_Test_test - 2019.01.30 at 20h 23m 08s.xml">
+      <configuration name="Solver_Reverse_Palindrome_Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solver_Reverse_Palindrome_Test_test - 2019.01.30 at 20h 23m 52s.xml">
+      <configuration name="Solver_Reverse_Palindrome_Test.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="34" width="1853" height="1046" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3116305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30884808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -333,7 +365,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32921347" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32921347" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.26067415" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -426,6 +458,24 @@
           <line>17</line>
           <properties />
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Reverse_Palindrome_List.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Reverse_Palindrome_List.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Reverse_Palindrome_List.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -631,6 +681,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Number_Is_Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Reverse_Linked_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="21" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solver_Find_Number_Is_Palindrome_Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -641,19 +705,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Number_Is_Palindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/Solver_Reverse_Palindrome_List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="9" selection-start-line="5" selection-start-column="7" selection-end-line="18" selection-end-column="9" />
+        <state relative-caret-position="275">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Reverse_Linked_List.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="1956">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Reverse_Palindrome_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
           <folding>
-            <element signature="e#0#398#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
