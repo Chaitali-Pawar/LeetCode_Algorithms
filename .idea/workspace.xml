@@ -2,10 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8b9c330-c7a6-4791-9532-e110c1dbe4ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solver_Reverse_Palindrome_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solver_Reverse_Palindrome_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Find_Unique_Character_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Find_Unique_Character_String_Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Number_Is_Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Number_Is_Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Find_Same_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/InputReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Check_Valid_String_Paranthesis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Check_Valid_String_Paranthesis_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Find_Majority_Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Find_Max_Depth_Left_Sub_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Find_Maximum_SubArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Find_Minimum_Depth_Binary_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Find_Same_Tree_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Longest_Common_Prefix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Longest_Common_Prefix_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Number_Is_Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Remove_Duplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Remove_Duplicates_Sorted_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Remove_Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Reverse_Linked_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Reverse_Palindrome_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Two_Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solve_Two_Sum_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Check_Valid_String_Paranthesis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Find_Majority_Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Find_Majority_Element_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Find_Max_Depth_Left_Sub_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Find_Maximum_SubArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Find_Maximum_SubArray_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Find_Min_Depth_Tree_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Find_Minimum_Depth_Binary_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Find_Number_Is_Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Find_Number_Is_Palindrome_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Find_Same_Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Longest_Common_Prefix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Remove_Duplicate_Array_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Remove_Duplicates_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Remove_Duplicates_Sorted_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Remove_Duplicates_Sorted_List_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Remove_Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Remove_Element_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Reverse_Palindrome_List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Reverse_Palindrome_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Solver_Two_Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePrograms/Tree_Node.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,51 +58,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solver_Find_Majority_Element_Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solver_Find_Majority_Element.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solve_Longest_Common_Prefix_Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/InputReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Find_Number_Is_Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -82,17 +79,59 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Reverse_Palindrome_List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="370">
+              <caret line="31" column="24" selection-start-line="14" selection-start-column="11" selection-end-line="31" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Find_Unique_Character_String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+              <folding>
+                <element signature="e#286#305#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="202" selection-start-line="202" selection-end-line="202" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Find_Unique_Character_String_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Reverse_Palindrome_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
+            <state relative-caret-position="304">
+              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,7 +142,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1956">
+            <state relative-caret-position="1881">
               <caret line="126" selection-start-line="126" selection-end-line="126" />
             </state>
           </provider>
@@ -165,6 +204,8 @@
         <option value="$PROJECT_DIR$/src/Solve_Reverse_Palindrome_List.java" />
         <option value="$PROJECT_DIR$/src/Solver_Reverse_Palindrome_List.java" />
         <option value="$PROJECT_DIR$/src/Solver_Reverse_Palindrome_Test.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Find_Unique_Character_String_Test.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Find_Unique_Character_String.java" />
       </list>
     </option>
   </component>
@@ -180,8 +221,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,12 +255,20 @@
               <item name="LeetCodePrograms" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodePrograms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Solver_Find_Unique_Character_String.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="LeetCodePrograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodePrograms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Solver_Reverse_Palindrome_List.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,7 +276,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548897853771" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549043103022" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -248,30 +295,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solver_Reverse_Palindrome_Test.test">
-    <configuration name="Solver_Find_Majority_Element_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Solver_Find_Unique_Character_String_Test.test">
+    <configuration name="Solver_Find_Number_Is_Palindrome_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePrograms" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solver_Find_Majority_Element_Test" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Find_Number_Is_Palindrome_Test" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solver_Find_Maximum_SubArray_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Solver_Find_Unique_Character_String_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePrograms" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solver_Find_Maximum_SubArray_Test" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Find_Unique_Character_String_Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solver_Find_Number_Is_Palindrome_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Solver_Find_Unique_Character_String_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePrograms" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solver_Find_Number_Is_Palindrome_Test" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Find_Unique_Character_String_Test" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -299,11 +346,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solver_Find_Unique_Character_String_Test.test" />
+        <item itemvalue="JUnit.Solver_Find_Unique_Character_String_Test" />
         <item itemvalue="JUnit.Solver_Reverse_Palindrome_Test.test" />
         <item itemvalue="JUnit.Solver_Reverse_Palindrome_Test" />
         <item itemvalue="JUnit.Solver_Find_Number_Is_Palindrome_Test.test" />
-        <item itemvalue="JUnit.Solver_Find_Majority_Element_Test.test" />
-        <item itemvalue="JUnit.Solver_Find_Maximum_SubArray_Test" />
       </list>
     </recent_temporary>
   </component>
@@ -321,42 +368,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solver_Find_Number_Is_Palindrome_Test_test - 2019.01.28 at 18h 27m 06s.xml">
-      <configuration name="Solver_Find_Number_Is_Palindrome_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_Unique_Character_String_Test_test - 2019.02.01 at 12h 23m 54s.xml">
+      <configuration name="Solver_Find_Unique_Character_String_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Find_Number_Is_Palindrome_Test_test - 2019.01.28 at 18h 28m 34s.xml">
-      <configuration name="Solver_Find_Number_Is_Palindrome_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_Unique_Character_String_Test_test - 2019.02.01 at 12h 26m 44s.xml">
+      <configuration name="Solver_Find_Unique_Character_String_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Find_Number_Is_Palindrome_Test_test - 2019.01.29 at 13h 54m 09s.xml">
-      <configuration name="Solver_Find_Number_Is_Palindrome_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_Unique_Character_String_Test_test - 2019.02.01 at 12h 39m 16s.xml">
+      <configuration name="Solver_Find_Unique_Character_String_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Reverse_Palindrome_Test_test - 2019.01.30 at 10h 17m 13s.xml">
-      <configuration name="Solver_Reverse_Palindrome_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_Unique_Character_String_Test_test - 2019.02.01 at 12h 40m 33s.xml">
+      <configuration name="Solver_Find_Unique_Character_String_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Reverse_Palindrome_Test_test - 2019.01.30 at 10h 19m 35s.xml">
-      <configuration name="Solver_Reverse_Palindrome_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_Unique_Character_String_Test_test - 2019.02.01 at 12h 41m 19s.xml">
+      <configuration name="Solver_Find_Unique_Character_String_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Reverse_Palindrome_Test_test - 2019.01.30 at 10h 22m 36s.xml">
-      <configuration name="Solver_Reverse_Palindrome_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_Unique_Character_String_Test_test - 2019.02.01 at 12h 41m 39s.xml">
+      <configuration name="Solver_Find_Unique_Character_String_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Reverse_Palindrome_Test - 2019.01.30 at 11h 52m 15s.xml">
-      <configuration name="Solver_Reverse_Palindrome_Test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_Unique_Character_String_Test_test - 2019.02.01 at 12h 42m 18s.xml">
+      <configuration name="Solver_Find_Unique_Character_String_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Reverse_Palindrome_Test - 2019.01.30 at 20h 21m 32s.xml">
-      <configuration name="Solver_Reverse_Palindrome_Test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_Unique_Character_String_Test - 2019.02.01 at 12h 42m 56s.xml">
+      <configuration name="Solver_Find_Unique_Character_String_Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Reverse_Palindrome_Test_test - 2019.01.30 at 20h 23m 08s.xml">
-      <configuration name="Solver_Reverse_Palindrome_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_Unique_Character_String_Test_test - 2019.02.01 at 12h 43m 06s.xml">
+      <configuration name="Solver_Find_Unique_Character_String_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Reverse_Palindrome_Test_test - 2019.01.30 at 20h 23m 52s.xml">
-      <configuration name="Solver_Reverse_Palindrome_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_Unique_Character_String_Test_test - 2019.02.01 at 12h 44m 30s.xml">
+      <configuration name="Solver_Find_Unique_Character_String_Test.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="34" width="1853" height="1046" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30884808" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31329995" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -365,7 +412,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32921347" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32921347" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.26067415" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -476,6 +523,30 @@
           <line>24</line>
           <properties />
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Find_Unique_Character_String.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Find_Unique_Character_String.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Find_Unique_Character_String.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Find_Unique_Character_String_Test.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -695,6 +766,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Reverse_Palindrome_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1881">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solver_Find_Number_Is_Palindrome_Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -707,24 +795,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solver_Reverse_Palindrome_List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="370">
+          <caret line="31" column="24" selection-start-line="14" selection-start-column="11" selection-end-line="31" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1956">
-          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        <state relative-caret-position="266">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Reverse_Palindrome_Test.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
+        <state relative-caret-position="208">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Unique_Character_String_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Unique_Character_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="e#286#305#0" expanded="true" />
           </folding>
         </state>
       </provider>
