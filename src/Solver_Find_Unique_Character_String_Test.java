@@ -9,7 +9,7 @@ public class Solver_Find_Unique_Character_String_Test {
         String input_2 ="loveleetcode";
         String input_3 ="cc";
         Assert.assertEquals(solve.firstUniqCharacter(input_1),0);
-       Assert.assertEquals(solve.firstUniqCharacter(input_2),2);
+        Assert.assertEquals(solve.firstUniqCharacter(input_2),2);
         Assert.assertEquals(solve.firstUniqCharacter(input_3),-1);
 
     }

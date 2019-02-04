@@ -9,7 +9,6 @@ class Solve_Find_Unique_Character_String{
        char input_array [] = s.toCharArray();
        LinkedHashMap<Character,Integer> mapOfString = new LinkedHashMap<Character,Integer>();
        for(int i=0;i<input_array.length;i++){
-
            if(mapOfString.containsKey(input_array[i])){
                mapOfString.put(input_array[i],mapOfString.get(input_array[i]) +1);
            }
