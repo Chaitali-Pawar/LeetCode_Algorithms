@@ -32,8 +32,3 @@ class Solve_Remove_Duplicates_Sorted_List{
     }
 }
 
- class ListNode {
-      int val;
-      ListNode next;
-      ListNode(int x) { val = x; }
- }
