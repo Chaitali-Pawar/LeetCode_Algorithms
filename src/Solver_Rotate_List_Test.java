@@ -10,6 +10,7 @@ public class Solver_Rotate_List_Test {
         ListNode n1 = new ListNode(1);
         n2.next =n3;
         n1.next =n1;
+        n3.next =null;
         solve.rotateRight(n1,1);
     }
 }
