@@ -1,7 +1,9 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Sort_Array_By_Parity {
+
+public  class Sort_Array_By_Parity {
+
 
     public int[] sortArrayByParity(int[] A) {
         int output_array[] = new int[A.length];
