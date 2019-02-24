@@ -5,7 +5,7 @@ public class Solver_Reverse_Palindrome_Test {
 
     @Test
     public void test(){
-        ListNode  node = new ListNode(1);
+     /*   ListNode  node = new ListNode(1);
         node.next = new ListNode(1);
         node.next.next = new ListNode(2);
         node.next.next.next = new ListNode(1);
@@ -18,6 +18,8 @@ public class Solver_Reverse_Palindrome_Test {
         node_2.next.next.next = new ListNode(1);
         node_2.next.next.next.next = new ListNode(1);
         node_2.next.next.next.next.next=null;
-        Assert.assertEquals(solve.isPalindrome(node_2),false);
+        Assert.assertEquals(solve.isPalindrome(node_2),false);*/
+     StringBuilder s= new StringBuilder("return");
+     System.out.println(s.substring(0,6));
     }
 }
