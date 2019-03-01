@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8b9c330-c7a6-4791-9532-e110c1dbe4ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solver_Inoder_Tree_Traversal_Stack_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solver_Inorder_Tree_Traversal_Using_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Find_K_Closest_Elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Find_K_Closest_Elements_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Find_Length_of_Longest_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test_Junit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,34 +18,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solver_Minimum_Time_Difference.java">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Find_K_Closest_Elements_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solver_Find_Binary_Search_Tree_Min_Difference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solver_Inorder_Tree_Traversal_Using_Stack.java">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Find_Length_of_Longest_Substring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="133">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test_Junit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/src/Solver_Inoder_Tree_Traversal_Stack_Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -64,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/src/Solver_Find_Same_Tree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -73,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/src/Solver_Find_Binary_Search_Tree_Min_Difference_Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="12" column="25" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="12" selection-end-column="25" />
+              <caret line="12" column="25" selection-start-line="6" selection-start-column="7" selection-end-line="12" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -81,8 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solver_Min_Time_Difference_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="46" lean-forward="true" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+            <state relative-caret-position="38">
+              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,7 +103,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree_Node_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
+            <state relative-caret-position="76">
               <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
               <folding>
                 <element signature="e#107#108#0" expanded="true" />
@@ -137,10 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solver_Find_Same_Tree.java" />
-        <option value="$PROJECT_DIR$/src/Solver_Find_Maximum_SubArray_Test.java" />
-        <option value="$PROJECT_DIR$/src/Solver_Find_Maximum_SubArray.java" />
-        <option value="$PROJECT_DIR$/src/Solver_Find_Majority_Element_Test.java" />
         <option value="$PROJECT_DIR$/src/Solver_Find_Majority_Element.java" />
         <option value="$PROJECT_DIR$/src/Solver_Find_Number_Is_Palindrome_Test.java" />
         <option value="$PROJECT_DIR$/src/Solver_Find_Number_Is_Palindrome.java" />
@@ -188,6 +180,10 @@
         <option value="$PROJECT_DIR$/src/Solver_Find_Binary_Search_Tree_Min_Difference_Test.java" />
         <option value="$PROJECT_DIR$/src/Solver_Inoder_Tree_Traversal_Stack_Test.java" />
         <option value="$PROJECT_DIR$/src/Solver_Inorder_Tree_Traversal_Using_Stack.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Find_K_Closest_Elements.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Find_K_Closest_Elements_Test.java" />
+        <option value="$PROJECT_DIR$/src/Test_Junit.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Find_Length_of_Longest_Substring.java" />
       </list>
     </option>
   </component>
@@ -234,7 +230,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551217089090" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551400548921" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HackerRank_Interview_Kit_JAVA/src" />
   </component>
   <component name="RecentsManager">
@@ -254,11 +250,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solver_Inoder_Tree_Traversal_Stack_Test.test">
+  <component name="RunManager" selected="JUnit.Test_Junit">
     <configuration name="Solver_Find_Binary_Search_Tree_Min_Difference_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePrograms" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Solver_Find_Binary_Search_Tree_Min_Difference_Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solver_Find_K_Closest_Elements_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePrograms" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Find_K_Closest_Elements_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solver_Find_K_Closest_Elements_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePrograms" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Find_K_Closest_Elements_Test" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -275,42 +290,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solver_K_Closest_Point_Origin_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test_Junit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePrograms" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solver_K_Closest_Point_Origin_Test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solver_Min_Time_Difference_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCodePrograms" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solver_Min_Time_Difference_Test" />
+      <option name="MAIN_CLASS_NAME" value="Test_Junit" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solver_Min_Time_Difference_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCodePrograms" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solver_Min_Time_Difference_Test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Test_Junit" />
+        <item itemvalue="JUnit.Solver_Find_K_Closest_Elements_Test.test" />
+        <item itemvalue="JUnit.Solver_Find_K_Closest_Elements_Test" />
         <item itemvalue="JUnit.Solver_Inoder_Tree_Traversal_Stack_Test.test" />
         <item itemvalue="JUnit.Solver_Find_Binary_Search_Tree_Min_Difference_Test.test" />
-        <item itemvalue="JUnit.Solver_Min_Time_Difference_Test" />
-        <item itemvalue="JUnit.Solver_Min_Time_Difference_Test.test" />
-        <item itemvalue="JUnit.Solver_K_Closest_Point_Origin_Test.test" />
       </list>
     </recent_temporary>
   </component>
@@ -328,35 +323,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solver_Min_Time_Difference_Test_test - 2019.02.25 at 16h 16m 51s.xml">
-      <configuration name="Solver_Min_Time_Difference_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_K_Closest_Elements_Test_test - 2019.02.28 at 17h 46m 00s.xml">
+      <configuration name="Solver_Find_K_Closest_Elements_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Min_Time_Difference_Test - 2019.02.25 at 16h 59m 15s.xml">
-      <configuration name="Solver_Min_Time_Difference_Test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_K_Closest_Elements_Test_test - 2019.02.28 at 17h 49m 05s.xml">
+      <configuration name="Solver_Find_K_Closest_Elements_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Find_Binary_Search_Tree_Min_Difference_Test_test - 2019.02.26 at 15h 37m 50s.xml">
-      <configuration name="Solver_Find_Binary_Search_Tree_Min_Difference_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_K_Closest_Elements_Test_test - 2019.02.28 at 17h 49m 46s.xml">
+      <configuration name="Solver_Find_K_Closest_Elements_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Find_Binary_Search_Tree_Min_Difference_Test_test - 2019.02.26 at 15h 45m 23s.xml">
-      <configuration name="Solver_Find_Binary_Search_Tree_Min_Difference_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_K_Closest_Elements_Test_test - 2019.02.28 at 17h 51m 35s.xml">
+      <configuration name="Solver_Find_K_Closest_Elements_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Find_Binary_Search_Tree_Min_Difference_Test_test - 2019.02.26 at 15h 45m 55s.xml">
-      <configuration name="Solver_Find_Binary_Search_Tree_Min_Difference_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_K_Closest_Elements_Test_test - 2019.02.28 at 17h 57m 38s.xml">
+      <configuration name="Solver_Find_K_Closest_Elements_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Find_Binary_Search_Tree_Min_Difference_Test_test - 2019.02.26 at 15h 46m 44s.xml">
-      <configuration name="Solver_Find_Binary_Search_Tree_Min_Difference_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_K_Closest_Elements_Test_test - 2019.02.28 at 18h 04m 31s.xml">
+      <configuration name="Solver_Find_K_Closest_Elements_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Inoder_Tree_Traversal_Stack_Test_test - 2019.02.26 at 16h 36m 10s.xml">
-      <configuration name="Solver_Inoder_Tree_Traversal_Stack_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_K_Closest_Elements_Test_test - 2019.02.28 at 18h 06m 29s.xml">
+      <configuration name="Solver_Find_K_Closest_Elements_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Inoder_Tree_Traversal_Stack_Test_test - 2019.02.26 at 16h 37m 22s.xml">
-      <configuration name="Solver_Inoder_Tree_Traversal_Stack_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_K_Closest_Elements_Test_test - 2019.02.28 at 18h 49m 10s.xml">
+      <configuration name="Solver_Find_K_Closest_Elements_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Inoder_Tree_Traversal_Stack_Test_test - 2019.02.26 at 16h 38m 07s.xml">
-      <configuration name="Solver_Inoder_Tree_Traversal_Stack_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Find_K_Closest_Elements_Test_test - 2019.02.28 at 18h 50m 22s.xml">
+      <configuration name="Solver_Find_K_Closest_Elements_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Min_Time_Difference_Test - 2019.02.26 at 16h 39m 23s.xml">
-      <configuration name="Solver_Min_Time_Difference_Test" configurationId="JUnit" />
+    <history-entry file="Test_Junit - 2019.02.28 at 19h 34m 19s.xml">
+      <configuration name="Test_Junit" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -370,8 +365,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="34" width="1853" height="1046" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2854758" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2982749" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -380,8 +376,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32921347" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3213483" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35730338" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3213483" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.16404495" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -660,6 +656,30 @@
           <properties />
           <option name="timeStamp" value="70" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Find_K_Closest_Elements.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Find_K_Closest_Elements.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Find_K_Closest_Elements.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Find_K_Closest_Elements.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Solver_Find_Binary_Search_Tree_Min_Difference.java</url>
           <line>6</line>
@@ -681,40 +701,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solve_Longest_Common_Prefix_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/InputReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Unique_Character_String_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Number_Is_Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solver_Reverse_Linked_List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -760,13 +746,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1881">
-          <caret line="126" selection-start-line="126" selection-end-line="126" />
         </state>
       </provider>
     </entry>
@@ -1007,6 +986,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Minimum_Time_Difference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Binary_Search_Tree_Min_Difference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Inorder_Tree_Traversal_Using_Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_K_Closest_Elements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="25" column="59" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Inoder_Tree_Traversal_Stack_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Same_Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Binary_Search_Tree_Min_Difference_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="25" selection-start-line="6" selection-start-column="7" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Min_Time_Difference_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solve_Find_Squares_Sorted_Array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -1017,19 +1074,9 @@
     <entry file="file://$PROJECT_DIR$/src/Solve_Rotate_A_List.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Minimum_Time_Difference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree_Node_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="76">
           <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
           <folding>
             <element signature="e#107#108#0" expanded="true" />
@@ -1038,54 +1085,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Min_Time_Difference_Test.java">
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_K_Closest_Elements_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="46" lean-forward="true" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Same_Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Binary_Search_Tree_Min_Difference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Binary_Search_Tree_Min_Difference_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Inoder_Tree_Traversal_Stack_Test.java">
+    <entry file="file://$PROJECT_DIR$/src/Test_Junit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Inorder_Tree_Traversal_Using_Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Length_of_Longest_Substring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
