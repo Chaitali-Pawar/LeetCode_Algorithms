@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8b9c330-c7a6-4791-9532-e110c1dbe4ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solver_Find_K_Closest_Elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solver_Find_K_Closest_Elements_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solver_Find_Length_of_Longest_Substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test_Junit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Find_Smalles_Positive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Find_Smalles_positive_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Pre_Order_Traversal_Paranthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solver_Test_Pre_Order_Traversal_Paranthesis_Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,28 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solver_Find_K_Closest_Elements_Test.java">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Find_Smalles_Positive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solver_Find_Length_of_Longest_Substring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test_Junit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="190">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,20 +29,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solver_Inoder_Tree_Traversal_Stack_Test.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Pre_Order_Traversal_Paranthesis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="76">
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solver_Find_Same_Tree.java">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Test_Pre_Order_Traversal_Paranthesis_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            <state relative-caret-position="267">
+              <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -103,12 +94,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree_Node_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
+            <state relative-caret-position="95">
               <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
               <folding>
                 <element signature="e#107#108#0" expanded="true" />
                 <element signature="e#128#129#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solver_Find_Smalles_positive_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -133,10 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solver_Find_Majority_Element.java" />
-        <option value="$PROJECT_DIR$/src/Solver_Find_Number_Is_Palindrome_Test.java" />
-        <option value="$PROJECT_DIR$/src/Solver_Find_Number_Is_Palindrome.java" />
-        <option value="$PROJECT_DIR$/src/Solver_Reverse_Linked_List.java" />
         <option value="$PROJECT_DIR$/src/Solve_Reverse_Palindrome_List.java" />
         <option value="$PROJECT_DIR$/src/Solver_Reverse_Palindrome_List.java" />
         <option value="$PROJECT_DIR$/src/Solver_Find_Unique_Character_String.java" />
@@ -184,6 +180,10 @@
         <option value="$PROJECT_DIR$/src/Solver_Find_K_Closest_Elements_Test.java" />
         <option value="$PROJECT_DIR$/src/Test_Junit.java" />
         <option value="$PROJECT_DIR$/src/Solver_Find_Length_of_Longest_Substring.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Find_Smalles_positive_Test.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Find_Smalles_Positive.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Test_Pre_Order_Traversal_Paranthesis_Test.java" />
+        <option value="$PROJECT_DIR$/src/Solver_Pre_Order_Traversal_Paranthesis.java" />
       </list>
     </option>
   </component>
@@ -212,12 +212,6 @@
               <item name="LeetCodePrograms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCodePrograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodePrograms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Solver_Find_Duplicate_Array_Indices.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -230,7 +224,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551400548921" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552871274346" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HackerRank_Interview_Kit_JAVA/src" />
   </component>
   <component name="RecentsManager">
@@ -250,40 +244,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Test_Junit">
-    <configuration name="Solver_Find_Binary_Search_Tree_Min_Difference_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Solver_Test_Pre_Order_Traversal_Paranthesis_Test.test">
+    <configuration name="Solver_Find_Smalles_positive_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePrograms" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solver_Find_Binary_Search_Tree_Min_Difference_Test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solver_Find_K_Closest_Elements_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCodePrograms" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solver_Find_K_Closest_Elements_Test" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Find_Smalles_positive_Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solver_Find_K_Closest_Elements_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Solver_Find_Smalles_positive_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePrograms" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solver_Find_K_Closest_Elements_Test" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Find_Smalles_positive_Test" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solver_Inoder_Tree_Traversal_Stack_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Solver_Test_Pre_Order_Traversal_Paranthesis_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePrograms" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Solver_Inoder_Tree_Traversal_Stack_Test" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Test_Pre_Order_Traversal_Paranthesis_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solver_Test_Pre_Order_Traversal_Paranthesis_Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePrograms" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solver_Test_Pre_Order_Traversal_Paranthesis_Test" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -301,11 +294,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solver_Test_Pre_Order_Traversal_Paranthesis_Test.test" />
+        <item itemvalue="JUnit.Solver_Test_Pre_Order_Traversal_Paranthesis_Test" />
+        <item itemvalue="JUnit.Solver_Find_Smalles_positive_Test.test" />
+        <item itemvalue="JUnit.Solver_Find_Smalles_positive_Test" />
         <item itemvalue="JUnit.Test_Junit" />
-        <item itemvalue="JUnit.Solver_Find_K_Closest_Elements_Test.test" />
-        <item itemvalue="JUnit.Solver_Find_K_Closest_Elements_Test" />
-        <item itemvalue="JUnit.Solver_Inoder_Tree_Traversal_Stack_Test.test" />
-        <item itemvalue="JUnit.Solver_Find_Binary_Search_Tree_Min_Difference_Test.test" />
       </list>
     </recent_temporary>
   </component>
@@ -323,35 +316,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solver_Find_K_Closest_Elements_Test_test - 2019.02.28 at 17h 46m 00s.xml">
-      <configuration name="Solver_Find_K_Closest_Elements_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Test_Pre_Order_Traversal_Paranthesis_Test_test - 2019.03.17 at 20h 58m 44s.xml">
+      <configuration name="Solver_Test_Pre_Order_Traversal_Paranthesis_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Find_K_Closest_Elements_Test_test - 2019.02.28 at 17h 49m 05s.xml">
-      <configuration name="Solver_Find_K_Closest_Elements_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Test_Pre_Order_Traversal_Paranthesis_Test_test - 2019.03.17 at 20h 59m 06s.xml">
+      <configuration name="Solver_Test_Pre_Order_Traversal_Paranthesis_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Find_K_Closest_Elements_Test_test - 2019.02.28 at 17h 49m 46s.xml">
-      <configuration name="Solver_Find_K_Closest_Elements_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Test_Pre_Order_Traversal_Paranthesis_Test_test - 2019.03.17 at 20h 59m 26s.xml">
+      <configuration name="Solver_Test_Pre_Order_Traversal_Paranthesis_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Find_K_Closest_Elements_Test_test - 2019.02.28 at 17h 51m 35s.xml">
-      <configuration name="Solver_Find_K_Closest_Elements_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Test_Pre_Order_Traversal_Paranthesis_Test_test - 2019.03.17 at 20h 59m 43s.xml">
+      <configuration name="Solver_Test_Pre_Order_Traversal_Paranthesis_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Find_K_Closest_Elements_Test_test - 2019.02.28 at 17h 57m 38s.xml">
-      <configuration name="Solver_Find_K_Closest_Elements_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Test_Pre_Order_Traversal_Paranthesis_Test_test - 2019.03.17 at 21h 00m 08s.xml">
+      <configuration name="Solver_Test_Pre_Order_Traversal_Paranthesis_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Find_K_Closest_Elements_Test_test - 2019.02.28 at 18h 04m 31s.xml">
-      <configuration name="Solver_Find_K_Closest_Elements_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Test_Pre_Order_Traversal_Paranthesis_Test - 2019.03.17 at 21h 00m 24s.xml">
+      <configuration name="Solver_Test_Pre_Order_Traversal_Paranthesis_Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Find_K_Closest_Elements_Test_test - 2019.02.28 at 18h 06m 29s.xml">
-      <configuration name="Solver_Find_K_Closest_Elements_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Test_Pre_Order_Traversal_Paranthesis_Test_test - 2019.03.17 at 21h 01m 13s.xml">
+      <configuration name="Solver_Test_Pre_Order_Traversal_Paranthesis_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Find_K_Closest_Elements_Test_test - 2019.02.28 at 18h 49m 10s.xml">
-      <configuration name="Solver_Find_K_Closest_Elements_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Test_Pre_Order_Traversal_Paranthesis_Test_test - 2019.03.17 at 21h 03m 23s.xml">
+      <configuration name="Solver_Test_Pre_Order_Traversal_Paranthesis_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solver_Find_K_Closest_Elements_Test_test - 2019.02.28 at 18h 50m 22s.xml">
-      <configuration name="Solver_Find_K_Closest_Elements_Test.test" configurationId="JUnit" />
+    <history-entry file="Solver_Test_Pre_Order_Traversal_Paranthesis_Test_test - 2019.03.17 at 21h 05m 38s.xml">
+      <configuration name="Solver_Test_Pre_Order_Traversal_Paranthesis_Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_Junit - 2019.02.28 at 19h 34m 19s.xml">
-      <configuration name="Test_Junit" configurationId="JUnit" />
+    <history-entry file="Solver_Test_Pre_Order_Traversal_Paranthesis_Test_test - 2019.03.17 at 21h 06m 06s.xml">
+      <configuration name="Solver_Test_Pre_Order_Traversal_Paranthesis_Test.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -367,7 +360,7 @@
     <frame x="67" y="34" width="1853" height="1046" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2982749" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3116305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -376,8 +369,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32921347" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3213483" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.16404495" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18314607" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34494382" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -680,6 +673,42 @@
           <properties />
           <option name="timeStamp" value="82" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Find_Smalles_Positive.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Find_Smalles_Positive.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Find_Smalles_Positive.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Pre_Order_Traversal_Paranthesis.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Pre_Order_Traversal_Paranthesis.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solver_Pre_Order_Traversal_Paranthesis.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Solver_Find_Binary_Search_Tree_Min_Difference.java</url>
           <line>6</line>
@@ -701,34 +730,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solver_Reverse_Linked_List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="21" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Reverse_Palindrome_List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="24" selection-start-line="14" selection-start-column="11" selection-end-line="31" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Unique_Character_String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Reverse_String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solver_Nary_Tree_Order_Traversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="779">
@@ -1026,10 +1027,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_K_Closest_Elements_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test_Junit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Length_of_Longest_Substring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1064,19 +1082,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solve_Find_Squares_Sorted_Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solve_Rotate_A_List.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree_Node_1.java">
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Smalles_positive_Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Smalles_Positive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree_Node_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
           <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
           <folding>
             <element signature="e#107#108#0" expanded="true" />
@@ -1085,27 +1113,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Find_K_Closest_Elements_Test.java">
+    <entry file="file://$PROJECT_DIR$/src/Solve_Find_Squares_Sorted_Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="190">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test_Junit.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="183">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solver_Find_Length_of_Longest_Substring.java">
+    <entry file="file://$PROJECT_DIR$/src/Solver_Test_Pre_Order_Traversal_Paranthesis_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="267">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solver_Pre_Order_Traversal_Paranthesis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>
