@@ -1,15 +1,17 @@
-import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.LinkedList;
 
-public class Solve_Graph_DFS_Topological_Sort {
-        int color[];
-        int pred[];
-        int time =0;
-        int start[];
-        int finish[];
-        LinkedList<Integer> adjListArray[];
-        LinkedList<Integer> topologicalSortOrder = new LinkedList<>();
-    public boolean canFinish(int numOfCourses,int [][]prerequestie ){
+public class Solve_Compute_Order_Courses {
+    int color[];
+    int pred[];
+    int time =0;
+    int start[];
+    int finish[];
+    LinkedList<Integer> adjListArray[];
+    private static final int[] NO_Order = new int[0];
+    // to store the order of the vertices once they are finished
+    LinkedList<Integer> topologicalSortOrder = new LinkedList<>();
+    public int[] findOrder(int numOfCourses,int [][]prerequestie ){
         color  =new int[numOfCourses];
         pred = new int [numOfCourses];
         start = new int[numOfCourses];
@@ -25,16 +27,23 @@ public class Solve_Graph_DFS_Topological_Sort {
         for(int i=0;i<prerequestie.length;i++){
             adjListArray[prerequestie[i][0]].add(prerequestie[i][1]);
         }
+        int topologicalArray []= new int[numOfCourses];
         for (int i=0;i<numOfCourses;i++){
             // if vertex is white process
             if(color[i] ==0){
                 // call DFS to process that vertex
                 if(DFS_Vist(i,adjListArray,numOfCourses) == false){
-                    return false;
+                    return NO_Order;
                 }
             }
         }
-        return true;
+
+        int i=0;
+        for(Integer v : topologicalSortOrder){
+            topologicalArray[i] =v;
+            i++;
+        }
+        return topologicalArray ;
     }
 
     public boolean DFS_Vist(int vertex ,LinkedList <Integer>adjacencyListArray [],int numofCourses){
